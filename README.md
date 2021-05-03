@@ -20,7 +20,7 @@ Repositorio de enlaces de la comunidad
 
 
 # Youtube
-- [Women in Gamex](ttps://www.youtube.com/channel/UC_3yVNYHJEhjjDtSSGczU4g)
+- [Women in Gamex](https://www.youtube.com/channel/UC_3yVNYHJEhjjDtSSGczU4g)
 - [Luisquid](https://www.youtube.com/playlist?list=PLZpuy8uhA1HOQKNEPxl2y6ILO1CIC_LT7)
 - [Arturo Nereu (Top 5)](https://www.youtube.com/channel/UCQqs-jApbR29A2U6mSi9kyA)
 
