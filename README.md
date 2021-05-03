@@ -2,7 +2,7 @@
 
 Repositorio de enlaces de la comunidad
 
-# Discord
+## Discord
 - [Heart Forth, Alicia](http://discord.gg/hfa)
 - [Lienzo](https://discord.gg/lienzo)
 - [Hyperbeard](http://discord.gg/hyperbeard)
@@ -19,13 +19,13 @@ Repositorio de enlaces de la comunidad
 - [Laboratorio de Juegos CCDMX](https://discord.gg/ZhmK9Zh)
 
 
-# Youtube
+## Youtube
 - [Women in Gamex](https://www.youtube.com/channel/UC_3yVNYHJEhjjDtSSGczU4g)
 - [Luisquid](https://www.youtube.com/playlist?list=PLZpuy8uhA1HOQKNEPxl2y6ILO1CIC_LT7)
 - [Arturo Nereu (Top 5)](https://www.youtube.com/channel/UCQqs-jApbR29A2U6mSi9kyA)
 
 
-# Podcasts
+## Podcasts
 
 - [Fuego Indie](https://open.spotify.com/episode/0UBksOqrfxwkbx8WOeXIw9)
 - [Detrás del Pixel](https://detrasdelpixel.com/podcast)
@@ -33,7 +33,7 @@ Repositorio de enlaces de la comunidad
 - [El Respawneo](https://open.spotify.com/show/3zFwOGdf9ARwizfxADdn8L)
 
 
-# Streams
+## Streams
 
 - [Pogo8Bit](https://www.youtube.com/user/pogo8bit/)
 - [OutlineCC](https://www.twitch.tv/outlinecc)
