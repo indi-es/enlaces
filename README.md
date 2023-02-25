@@ -38,3 +38,6 @@ Repositorio de enlaces de la comunidad
 - [Pogo8Bit](https://www.youtube.com/user/pogo8bit/)
 - [OutlineCC](https://www.twitch.tv/outlinecc)
 - [Valaill](https://www.twitch.tv/valaill)
+
+## Recursos
+- [Indie Bookmarks por Novemtails](http://novemtails.com/indiebookmarks/)
