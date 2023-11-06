@@ -13,7 +13,6 @@ Repositorio de enlaces de la comunidad
 - [Ogre Pixel](https://discord.gg/dJF56Xb)
 - [Score VG](https://discord.gg/PfGAXxA)
 - [Unity Indies Latam](https://discord.gg/BM6dgEc)
-- [PICO-8 Club](https://discord.gg/Ftjw2Cv)
 - [Mecha Studios](https://discord.gg/SjsF7ab)
 - [Game Devs MX](https://discord.gg/d5C83VkSWJ)
 - [Laboratorio de Juegos CCDMX](https://discord.gg/ZhmK9Zh)
