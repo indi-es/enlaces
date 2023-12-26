@@ -15,8 +15,8 @@ Repositorio de enlaces de la comunidad
 - [Unity Indies Latam](https://discord.gg/BM6dgEc)
 - [Mecha Studios](https://discord.gg/SjsF7ab)
 - [Game Devs MX](https://discord.gg/d5C83VkSWJ)
-- [Laboratorio de Juegos CCDMX](https://discord.gg/ZhmK9Zh)
-- [EnControl](https://discord.gg/E4hBYngQEv)
+- [Laboratorio de Juegos CDMX](https://discord.gg/ZhmK9Zh)
+- [EnControl NL](https://discord.gg/E4hBYngQEv)
 
 
 ## Youtube
