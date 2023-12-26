@@ -6,7 +6,7 @@ Repositorio de enlaces de la comunidad
 - [Heart Forth, Alicia](http://discord.gg/hfa)
 - [Lienzo](https://discord.gg/lienzo)
 - [Hyperbeard](http://discord.gg/hyperbeard)
-- [Laninx in Gaming](http://discord.gg/latinx)
+- [Latinx in Gaming](http://discord.gg/latinx)
 - [Tunche](https://discord.gg/tunche)
 - [Tu juego indie](https://discord.gg/wWRZK2g)
 - [Bromio](https://discord.gg/gnpQyGG)
