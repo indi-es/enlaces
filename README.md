@@ -16,6 +16,7 @@ Repositorio de enlaces de la comunidad
 - [Mecha Studios](https://discord.gg/SjsF7ab)
 - [Game Devs MX](https://discord.gg/d5C83VkSWJ)
 - [Laboratorio de Juegos CCDMX](https://discord.gg/ZhmK9Zh)
+- [EnControl](https://discord.gg/E4hBYngQEv)
 
 
 ## Youtube
