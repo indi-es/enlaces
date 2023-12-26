@@ -6,7 +6,7 @@ Repositorio de enlaces de la comunidad
 - [Heart Forth, Alicia](http://discord.gg/hfa)
 - [Lienzo](https://discord.gg/lienzo)
 - [Hyperbeard](http://discord.gg/hyperbeard)
-- [Laninx in Gaming](http://discord.gg/latinx)
+- [Latinx in Gaming](http://discord.gg/latinx)
 - [Tunche](https://discord.gg/tunche)
 - [Tu juego indie](https://discord.gg/wWRZK2g)
 - [Bromio](https://discord.gg/gnpQyGG)
@@ -15,7 +15,8 @@ Repositorio de enlaces de la comunidad
 - [Unity Indies Latam](https://discord.gg/BM6dgEc)
 - [Mecha Studios](https://discord.gg/SjsF7ab)
 - [Game Devs MX](https://discord.gg/d5C83VkSWJ)
-- [Laboratorio de Juegos CCDMX](https://discord.gg/ZhmK9Zh)
+- [Laboratorio de Juegos CDMX](https://discord.gg/ZhmK9Zh)
+- [EnControl NL](https://discord.gg/E4hBYngQEv)
 
 
 ## Youtube
